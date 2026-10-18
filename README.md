@@ -39,7 +39,7 @@ cout<<"9) Hill"<<endl;
 1. Compilar:
 
 ```
-g++ criptografia_y_seguridad.cpp -o crypto
+g++ criptografia-y-seguridad-cpp.cpp -o crypto
 ```
 
 2. Correr el ejecutable:
